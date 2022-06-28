@@ -1,0 +1,17 @@
+/* Base Styles */
+
+* {
+	box-sizing: border-box;
+}
+
+h1 {
+	font-family: Brushstroke, fantasy;
+	color: #000000;
+	text-align: center;
+}
+
+body {
+	
+	background-color: #78ffd6;
+
+}
